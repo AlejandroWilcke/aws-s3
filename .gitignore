@@ -1,2 +1,5 @@
+.env
 node_modules
 logs
+src/db/database.sqlite
+tests/testDatabase.sqlite
